@@ -56,3 +56,7 @@ property attached to it, by calling done(error).
    done(error)
  }
 ```
+
+##Possible Improvements
+ - Start the Redis server for the user using a module like redis-server so they dont have to.
+ - Have the exposed functions use promises instead of callbacks, or give the option of using both.
