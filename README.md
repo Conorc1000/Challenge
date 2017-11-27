@@ -6,7 +6,7 @@ This is a job queue library, using [redis](http://redis.io) and built for [node.
 
   - Latest release:
 
-        $ npm install simpleJobQ
+        $ npm install simple-job-q
 
 To use this module you must have a redis server running on port 6379
 
